@@ -39,8 +39,8 @@
 }
 
 .tags{
-    margin: 5px;
-    padding: 5px;
+    margin: 5px 0;
+    padding: 5px 0;
 }
 
 .tag{
@@ -56,4 +56,10 @@
 
 .latest-questions{
     color: #797979;
+}
+
+.creator-date{
+    color: #9199a1;
+    font-size: 12px;
+    padding: 10px 0;
 }
